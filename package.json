@@ -33,7 +33,5 @@
       "bcrypt",
       "sharp"
     ]
-  },
-  "engines": {
-    "node": "18.x"
   }
+}
